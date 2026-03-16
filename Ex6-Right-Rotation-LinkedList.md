@@ -1,7 +1,7 @@
 # Ex6 Right Rotation LinkedList
 # Developed by: AKSHAI KHANNA D
 # RegisterNumber: 212223040010
-## DATE: 07/02/26
+## DATE: 07/02/2026
 ## AIM:
 To write a Java  program to:
 Create a singly linked list.
